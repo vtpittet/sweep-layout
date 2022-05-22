@@ -262,7 +262,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_COLN",
-      "KC_ESC",
+      "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
@@ -272,7 +272,7 @@
       "KC_TRNS",
       "KC_PERC",
       "KC_SLSH",
-      "KC_ENT",
+      "KC_ESC",
       "KC_TRNS",
       "DF(1)",
       "KC_LGUI",
@@ -290,7 +290,7 @@
       "RCTL_T(KC_DOT)",
       "RESET",
       "KC_TRNS",
-      "KC_TRNS",
+      "LGUI_T(KC_ENT)",
       "KC_NO",
       "KC_TRNS"
     ]
