@@ -37,8 +37,8 @@
       "LCTL_T(KC_COMM)",
       "LALT_T(KC_DOT)",
       "KC_SLSH",
-      "LCTL_T(KC_TAB)",
-      "LGUI_T(KC_BSPC)",
+      "LGUI_T(KC_TAB)",
+      "LCTL_T(KC_BSPC)",
       "LT(7,KC_SPC)",
       "KC_RALT"
     ],
